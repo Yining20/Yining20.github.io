@@ -15,11 +15,18 @@ My research interests includes the wireless communication and statistical infere
 
 
 # Honors and Awards
-* National Scholarship for Graduate Students (top 0.2\% students nationwide). Oct. 2019.
+* National Scholarship for Graduate Students 
+<br> (top 0.2% students nationwide). Oct. 2019.
 <br> The highest honor for graduate students in recognition of academic performance in China. 
-* The First Class scholarship for Graduate Students (top 10\% students). Sept. 2018, Sept. 2019.
-* China Post-graduate Mathematical Contest in Modeling: Honorable Mention.  Oct. 2018
-* Presidential Scholarship (top 1\% students) Sept. 2017
-* National Undergraduate Electronic Design Competition: Honorable Mention. Oct. 2017.
-* Model Student of Academic Records (top 3\% students). Sept. 2016, Sept. Oct. 2017
-* China Undergraduate Mathematical Contest in Modeling: Honorable Mention. Oct. 2016
+* The First Class scholarship for Graduate Students (top 10% students). 
+<br> Sept. 2018, Sept. 2019.
+* China Post-graduate Mathematical Contest in Modeling: Honorable Mention.  
+<br> Oct. 2018
+* Presidential Scholarship (top 1% students)  
+<br> Sept. 2017
+* National Undergraduate Electronic Design Competition: Honorable Mention.   
+<br> Oct. 2017.
+* Model Student of Academic Records (top 3% students).   
+<br> Sept. 2016, Sept. 2017
+* China Undergraduate Mathematical Contest in Modeling: Honorable Mention.   
+<br> Oct. 2016
